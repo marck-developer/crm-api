@@ -14,12 +14,12 @@ first npm i to install all dependencies needed to run the project
 
 then start the server typing in the terminal node customer-api.js
 
-you can see results on localhost:300
+you can see results on localhost:3000
 
 with that is enough to verify for example with postman that all the endpoints 
 are working and you can perform all the CRUD required
 
 additonally i create some front-end just to be more visual,
-i create a form just to perform create a new customer and another html
+I create a form just to perform create a new customer and another html
 to read all customers
     
